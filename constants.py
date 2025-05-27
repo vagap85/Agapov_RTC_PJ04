@@ -24,8 +24,8 @@ class RTC():  # RTC - RosTeleCom
     VALID_PASSWORD_20 = "$b_.A|S!-=/-a+,A`S|?"  # 20 symbols
 
     # some unverified email, login and pass
-    INVALID_EMAIL = 'joe.doee@1secmail.com'
-    INVALID_LOGIN = 'rtkee_1680847166060'
+    INVALID_EMAIL = 'zo.97l@dcpa.net'
+    INVALID_LOGIN = 'rtkee_1680847166666'
     INVALID_PASSWORD = 'AscWdvEfb1!'
 
     # Cookies file name
@@ -37,11 +37,11 @@ class RTC():  # RTC - RosTeleCom
     RECOVERY_INSCRIPTION_TEXT = "Восстановление пароля"
     RECOVERY_CAPTCHA_TEXT = "Символы"
     AUTH_BY_CODE_TEXTS = {
-        "https://lk.rt.ru/": "Вход по временному коду",
-        "https://start.rt.ru/": "Вход по временному коду",
-        "https://lk.smarthome.rt.ru/": "Вход по временному коду",
-        "https://key.rt.ru/": "Вход по временному коду",
-        "https://my.rt.ru/":"Авторизация"}
+        "https://lk.rt.ru/",
+        "https://start.rt.ru/",
+        "https://lk.smarthome.rt.ru/",
+        "https://key.rt.ru/",
+        "https://my.rt.ru/"}
     AUTH_GET_CODE = "Получить код"
     AUTH_BY_PASS_TEXT = "Авторизация"
     ENTER_TEXT = "Войти"
