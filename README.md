@@ -11,8 +11,8 @@
 
 Пароли не выложены. <BR>
 Создать в директории проекта файл .env, в него записать: <BR> 
-VALID_EMAIL = 'ваш email'
-VALID_LOGIN = ‘ваш login'
+VALID_EMAIL = 'ваш email'<BR>
+VALID_LOGIN = ‘ваш login'<BR>
 VALID_PASSWORD = 'ваш пароль'
 
 Техники тест-дизайна:
