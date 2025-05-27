@@ -1,0 +1,185 @@
+=== Cookies ===
+Name: userAgent
+Value: false
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: True
+HttpOnly: False
+----------------
+Name: userAgentMobile
+Value: false
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: True
+HttpOnly: False
+----------------
+Name: TS01deec92
+Value: 0194c944518e40ce4a18abdda23369fd334a71820a91421dde020d5bb086011862d6a3b77324759b40c090feaaa72fc0d3b560b59f
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
+Name: ELK_CSRF_TOKEN
+Value: 004308297553857:F8B78D344C4A5C604F1FAB0E074E48162B30C9EF
+Domain: .rt.ru
+Path: /
+Expires: 1779789123
+Secure: True
+HttpOnly: False
+----------------
+Name: dtCookie
+Value: v_4_srv_95_sn_2C307E1D07CDC76E819CD0B6A8CF34F0_perc_100000_ol_0_mul_1_app-3A176d363755800f58_1_app-3Ab0de653a9f1215cf_1_app-3Adc6059679f305b6a_1_rcs-3Acss_0
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
+Name: fgsscw-rt-lk
+Value: p3tWb843756fa60936ac6247f30b018623eb46fa
+Domain: .rt.ru
+Path: /
+Expires: 1779789123
+Secure: True
+HttpOnly: False
+----------------
+Name: dtSa
+Value: false%7CC%7C17%7C%D0%92%D0%BE%D0%B9%D1%82%D0%B8%7Cfetch%5Ec%20fetch%5Ec%20fetch%7C1748253122490%7C453121485_975%7Chttps%3A%2F%2Fb2c.passport.rt.ru%2Fauth%2Frealms%2Fb2c%2Flogin-actions%2Fauthenticate%3Fexecution%3Dfc343b3b-9ff7-4786-bb30-e60caa7821cd%26client_5Fid%3Dlk_5Fb2c%26tab_5Fid%3DO8yk070yQxs%7C%7C%7C%7C
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
+Name: rxVisitor
+Value: 1748253120478TH8U0CA521H5BNQG0F29S1C9OE8OF1RQ
+Domain: .rt.ru
+Path: /
+Expires: 1782813122
+Secure: False
+HttpOnly: False
+----------------
+Name: rxvt
+Value: 1748254922494|1748253120480
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
+Name: _ym_isad
+Value: 2
+Domain: .rt.ru
+Path: /
+Expires: 1748325120
+Secure: True
+HttpOnly: False
+----------------
+Name: oxxfgh
+Value: 35742a71-aae6-45bc-9e55-37f810f1a6ac#0#1800000#5000
+Domain: .rt.ru
+Path: /
+Expires: 1748254923
+Secure: False
+HttpOnly: False
+----------------
+Name: _ym_d
+Value: 1748253121
+Domain: .rt.ru
+Path: /
+Expires: 1779789120
+Secure: True
+HttpOnly: False
+----------------
+Name: __zzatw-rt-lk
+Value: MDA0dC0mWycUJTsKFA4/FyNcaTlUE0xATUcNN0BeN1ddHBEkWA4hPwtpW1Y0ZxUbQEgYL0tuei1DZyJiSFshRltQdRdgSkMrNhZGRhxyM3c/awgiGVETKl94R1drZVVCODFnDE9PTRI9XzRnezJhf3gkYhIRPwtwC1cwL2gMcRUnfw4qbxt7Il8qCCRjNV8ZQ2pODWk3XBQ8dWU+SHF7K0BoHmFJXSFLUT9IXl1JEjJiEkBATUcNN0BeN1dhMA8WEU1HFT1WUk9DKGsbcVhXLwkmPm1wCVweCB8RTSg/R1ZVVjRdLQ04RyZyPV87Xn0wVioTSykPHxo2IQtVODBYQREMYkFJb3gsPGceaEtdGzUkDkVdLFA+LlwMcRUnfw4qbxt/Nl0cOWMRCxl+OmNdRkc3FSR7dSNuDDkwSWwwYC57SykWRxsyYV5GaXVZCENOGDkzNTBrfiZgKzljYw0iCnUXXUo8KBVZCBJfRUNydio9ZiZjTVUREhYZOThYUDosWEERTyUKdmllbQwtUlFRS19/Dg4/aU5ZQ11wS3FHInR6M2UzDldjGAsmVDVfP0tkIhg7e1cKRzxZe3Y5ZSUtLVIpEhpiD0dXRWdeRnNdZxBEQE1HQnR3MT1qIGBJWyNMWklrbFJVN35iFkJEGC9LOT1ucGEPKxghVDVfP0FhSko9N1gfS3UwEg==0fZnyQ==
+Domain: .rt.ru
+Path: /
+Expires: 1779789124
+Secure: True
+HttpOnly: False
+----------------
+Name: _ym_uid
+Value: 1748253121812524477
+Domain: .rt.ru
+Path: /
+Expires: 1779789120
+Secure: True
+HttpOnly: False
+----------------
+Name: TS2a360a5e027
+Value: 081c0a6604ab2000f89caeda2aa628b25ef0c66acaef7cb980cc72e81ed3e03885e7df9c423c8239084af1dd02113000691604eb6378b646f2fd281cb1f7ff4b23dbea596ef3c562321ca5e2477f2cdd06ac6f52687463489350f41e51a55a04
+Domain: lk.rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
+Name: cfidsw-rt-lk
+Value: NJ6SXsZoUyDFJKxrgIaOfxKDD/XYlbj50sq8iBjmwOropTAqi2H5F2Q52/9JTee5Il7uaSS05uv7hEwNZEQiPE31Sp4RQbmovXcRnoT9X1PypKJKY560XWmNQjwCQYZdrYTOFCb4OrA3XOek9EWL+l2ak77fxaRogMhT
+Domain: .rt.ru
+Path: /
+Expires: 1779789123
+Secure: True
+HttpOnly: False
+----------------
+Name: lego_token
+Value: 6KJQHOBZBXGVVS4PNCJRXQAAOBNDS75VXZOYFPAKAX2GSHK7WLJQ====
+Domain: .rt.ru
+Path: /
+Expires: 1749444723
+Secure: True
+HttpOnly: True
+----------------
+Name: SSO_DEVICE_ID_LEGACY
+Value: e5f16f3c-07aa-4d9f-a65e-4211fd1a42e1
+Domain: .rt.ru
+Path: /
+Expires: 1782813120
+Secure: True
+HttpOnly: True
+----------------
+Name: SSO_DEVICE_ID
+Value: e5f16f3c-07aa-4d9f-a65e-4211fd1a42e1
+Domain: .rt.ru
+Path: /
+Expires: 1782813120
+Secure: True
+HttpOnly: True
+----------------
+Name: gsscw-rt-lk
+Value: /tRaijk65Rd7BC59Uu8iaArrY+LTOp8nlYlOEFhBSiJ5xhAhMkJ/Q6h8BhuwBOpAIjIb4sjigx/F0ZtmxQypP0/DoJhwogpVj5FOQWF9TcjrkPcHRG4qNkuTi+AgM0okOEwqCnOtWAqZRwIUlZCfoxx67UykeFrFmCHxIV8NCljoVBiTiRAqYXvS9JVMm9cOnaqSZeTZCDwaPJpbhJ2R3PSwBd61S+cHKDLY3/0hCPSbo6y+xsUtHkoDi13dodeo
+Domain: .rt.ru
+Path: /
+Expires: 1779789123
+Secure: True
+HttpOnly: False
+----------------
+Name: _ym_visorc
+Value: b
+Domain: .rt.ru
+Path: /
+Expires: 1748254924
+Secure: True
+HttpOnly: False
+----------------
+Name: dtPC
+Value: 95$453121485_975h-vVEDBQHHFNNEEMGHFPPOQRJRFUCKKHLPF-0e0
+Domain: .rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
+Name: TS01f13338
+Value: 0194c94451616ae51a6745d43b990eeb3ef17125c5939739892711a67f49fc3f3207589139a451e19c24b56628938a685c58630a93
+Domain: .lk.rt.ru
+Path: /
+Expires: Session cookie
+Secure: False
+HttpOnly: False
+----------------
